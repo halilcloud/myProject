@@ -1,2 +1,2 @@
 print("hello")
-print(" my git updates")
+print("test")
